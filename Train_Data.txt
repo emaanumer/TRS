@@ -1,0 +1,2 @@
+{"Name": "Inrahim", "CNIC": "6110106288011", "Departure": "Islamabad", "Destination": "Karachi", "Train": ["24/02/22", " Train 511B", " 05 00 PM", " 09 00 PM", " 28 hrs 0 mins", 4700], "Seat": "03WS"}
+{"Name": "123", "CNIC": "1730154080867", "Departure": "Karachi", "Destination": "Peshawar", "Train": ["25/02/22", " Train 012B", " 05 00 PM", " 09 20 AM", " 28 hrs 20 mins", 4500], "Seat": "12UB"}
